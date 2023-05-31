@@ -1,0 +1,8 @@
+<head>
+<body>
+<h2> some details about the college</h2>
+<font color="red">
+<p>The Cherabuddi Education Society was registered in January 1999 as an NRI-promoted society. The Society  aims at creating a state-of-the-art engineering institution in association with leading NRI technology professionals and well-known academicians of the twin states of Telangana & Andhra Pradesh.  The Society aims to harness technical excellence with a commitment to the ethos of 'useful learning'.
+</p></font>
+</body>
+</head>
